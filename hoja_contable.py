@@ -24,3 +24,5 @@ print("")
 g5=input("No. Campo (máx. 5 dígitos): ")
 des5= input("Descripción (máx. 20 letras): ")
 cg5=input(float("Monto mensual: "))
+
+print("Hola")
